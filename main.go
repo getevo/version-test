@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Branch:Master + Deployed")
+	fmt.Println("Branch:Master")
 }
