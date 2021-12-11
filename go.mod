@@ -1,3 +1,3 @@
-module github.com/getevo/evo-ng/examples/sample/git/github.com/getevo/version-test/v2
+module github.com/getevo/version-test/v3
 
 go 1.17
