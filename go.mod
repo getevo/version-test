@@ -1,3 +1,3 @@
-module github.com/getevo/version-test/v3
+module github.com/getevo/version-test/v6
 
 go 1.17
