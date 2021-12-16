@@ -6,6 +6,6 @@ import (
 )
 
 func Register()  {
-	fmt.Println("PKG IS REGISTERED! V3!")
+	fmt.Println("PKG IS REGISTERED! V6!")
 	os.Exit(1)
 }
